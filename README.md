@@ -1,0 +1,1 @@
+belajar reset dan revert
