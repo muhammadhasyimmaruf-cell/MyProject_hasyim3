@@ -1,1 +1,1 @@
-belajar reset dan revert
+Belajar git ignore
