@@ -1,0 +1,14 @@
+print("=======================================")
+print("Program Biodata Sederhana Dengan Python")
+print("=======================================")
+
+nama = "Isi dengan Nama Kamu"
+hobi = "Isi dengan Hobi kamu"
+alamat = "Isi dengan alamat kamu"
+kota = "Isi dengan Kota kamu"
+
+print("Nama Lengkap  :", nama)
+print("Alamat        :", alamat, "\n                Kota ", kota)
+print("Hobi          :", hobi)
+
+print("=======================================")
